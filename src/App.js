@@ -1,5 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import Header from './components/Header';
+import AboutMe from './components/AboutMe';
+import Footer from './components/Footer';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
+import Portfolio from './components/Portfolio';
+
 
 function App() {
   return (
