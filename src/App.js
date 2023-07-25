@@ -3,6 +3,7 @@ import "./App.css";
 import Header from './components/header/Header';
 import Home from './components/home/Home';
 import About from './components/about/About';
+import Resume from './components/resume/Resume';
 
 
 // import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
@@ -19,6 +20,7 @@ const App = () => {
     <main className='main'>
       <Home/>
       <About/>
+      <Resume/>
     </main>
     </>
   );

@@ -1,5 +1,8 @@
 import React from 'react'
 import Info from './Info'
+import DisplayPic from '../../assets/displayPic.jpg'
+import './about.css'
+
 const About = () => {
   return (
     <section className='about section' id='about'>
@@ -7,6 +10,8 @@ const About = () => {
         <span className='section_subtitle'></span>
 
         <div className='about_data'>
+            <img src={DisplayPic} alt="" className='about_img' />
+
             <Info/> 
             <p className="about_description">
                 Fullstack Web Developer eager to learn new technologies and build
