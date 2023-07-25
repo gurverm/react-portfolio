@@ -4,6 +4,7 @@ import Header from './components/header/Header';
 import Home from './components/home/Home';
 import About from './components/about/About';
 import Resume from './components/resume/Resume';
+import Portfolio from './components/portfolio/Portfolio'
 
 
 // import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
@@ -21,6 +22,7 @@ const App = () => {
       <Home/>
       <About/>
       <Resume/>
+      <Portfolio/>
     </main>
     </>
   );
