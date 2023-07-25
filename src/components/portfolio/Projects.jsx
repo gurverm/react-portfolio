@@ -10,7 +10,7 @@ const Projects = () => {
         {projectsNav.map((item, index) => {
           return (
             <span className="project_item" key={index}>
-              {item.name}
+              {/* {item.name} */}
             </span>
           );
         })}
