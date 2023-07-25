@@ -6,7 +6,6 @@ import About from './components/about/About';
 
 
 // import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import AboutMe from './components/AboutMe';
 // import Portfolio from './components/Portfolio';
 // import Contact from './components/Contact';
 // import Resume from './components/Resume';
