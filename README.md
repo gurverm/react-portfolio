@@ -15,7 +15,7 @@ This is a portfolio showcasing a few of my projects, resume, an about me section
 
 ## Usage
 
-Visit the deployed portfolio
+Visit the deployed portfolio https://gurverm.github.io/react-portfolio/ or clone the repo and run `npm install` and `npm start` to run locally.
 
 ## Demo
 
