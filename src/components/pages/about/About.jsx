@@ -2,10 +2,11 @@ import React from 'react'
 import Info from './Info'
 import DisplayPic from '../../../assets/displayPic.jpg'
 import './about.css'
+import '../../footer/footer.css'
 
 const About = () => {
   return (
-    <section className='about section' id='about'>
+    <section className='about section more-content-page' id='about'>
         <h2 className='section_title'>About Me</h2>
         <span className='section_subtitle'></span>
 
