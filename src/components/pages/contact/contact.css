@@ -1,4 +1,6 @@
 .contact_container{
     padding-left: 5rem;
     justify-content: center;
+  min-height: 80vh;
+
 }

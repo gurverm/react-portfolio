@@ -10,4 +10,5 @@
   padding-left: 10rem;
   align-items: center;
   position: relative;
+  min-height: 80vh;
 }
