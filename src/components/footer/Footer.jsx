@@ -39,6 +39,13 @@ const footer = () => {
           >
             <i className="uil uil-github-alt"></i>
           </a>
+          <a
+            href="https://twitter.com/gurveerm"
+            className="home_social-icon"
+            // target="_blank"
+          >
+            <i className="uil uil-twitter-alt"></i>
+          </a>
         </div>
         <span className="footer_copy">Gurveer Madurai All Rights Reserved</span>
       </div>
