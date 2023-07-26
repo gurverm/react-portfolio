@@ -4,7 +4,7 @@ import "./resume.css";
 
 const Resume = () => {
   return (
-    <section className="resume_container">
+    <section className="resume_container section">
       <h2 className="resume_subtitle">Resume</h2>
       <a href={CV} className="button button--flex">
         Download CV
