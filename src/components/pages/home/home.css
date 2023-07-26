@@ -50,7 +50,7 @@
 }
 
 .home_img {
-  background: url(../../assets/displayPic.jpg);
+  background: url(../../../assets/displayPic.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
