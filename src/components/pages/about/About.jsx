@@ -1,6 +1,6 @@
 import React from 'react'
 import Info from './Info'
-import DisplayPic from '../../assets/displayPic.jpg'
+import DisplayPic from '../../../assets/displayPic.jpg'
 import './about.css'
 
 const About = () => {

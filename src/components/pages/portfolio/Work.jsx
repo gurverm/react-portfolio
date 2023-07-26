@@ -1,9 +1,9 @@
-import Project1 from "../../assets/project1.PNG";
-import Project2 from "../../assets/project2.PNG";
-import Project3 from "../../assets/project3.PNG";
-import Project4 from "../../assets/project4.PNG";
-import Project5 from "../../assets/project5.PNG";
-import Project6 from "../../assets/project6.PNG";
+import Project1 from "../../../assets/project1.PNG";
+import Project2 from "../../../assets/project2.PNG";
+import Project3 from "../../../assets/project3.PNG";
+import Project4 from "../../../assets/project4.PNG";
+import Project5 from "../../../assets/project5.PNG";
+import Project6 from "../../../assets/project6.PNG";
 
 
 export const projectsData = [
