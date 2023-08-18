@@ -8,6 +8,14 @@ import Project6 from "../../../assets/project6.PNG";
 
 export const projectsData = [
     {
+        id:6,
+        image: Project6,
+        title: "BudgetWise",
+        category:'web',
+        link:'https://afternoon-tundra-66898-d64f284645ec.herokuapp.com/',
+        repo:'https://github.com/gurverm/budgetwise'
+    },
+    {
         id:1,
         image: Project1,
         title: "Lyksong",
@@ -47,14 +55,7 @@ export const projectsData = [
         link:'https://morning-everglades-75624-85e27c27b724.herokuapp.com/',
         repo:'https://github.com/gurverm/tech-blog'        
     },
-    {
-        id:6,
-        image: Project6,
-        title: "Password Generator",
-        category:'web',
-        link:'https://gurverm.github.io/password-generator/',
-        repo:'https://github.com/gurverm/password-generator'
-    }
+    
 ]
 
 export const projectsNav=[
