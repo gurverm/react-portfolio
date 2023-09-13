@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './contact.css';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -18,7 +17,7 @@ const Contact = () => {
   };
 
   return (
-    <section className='contact_container section'>
+    <section>
       <h2>Contact</h2>
       <form onSubmit={handleSubmit}>
         <label htmlFor="name">Name</label>
